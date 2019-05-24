@@ -1,7 +1,7 @@
 // Crear estructuras en C++  ||  Manejo de estructuras
 
 //Vaciar el buffer y permitir digitar valores [ fflush(stdin); ]
-//quitar notación científica con cout.precision(cantidad de decimales) e imprimir con cout<<fixed<<"";
+//quitar notaciÃ³n cientÃ­fica con cout.precision(cantidad de decimales) e imprimir con cout<<fixed<<"";
 
 struct nombreEstructura{
   tipoDato  nombreVariable  // Variables de la estructura a trabajar
@@ -15,6 +15,6 @@ struct otraEstructura{
 int main(){
   // declarar variables de la estrutura en el main
   nombreEstructura nombreVariable;
-  nombreVariable. [Parámetro de la estructura];
+  nombreVariable. [ParÃ¡metro de la estructura];
   return 0;
 }
