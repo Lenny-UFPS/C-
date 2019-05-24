@@ -13,3 +13,7 @@ scanf("%o", &value); //int octal
 * Impresión de punto flotante con d decimales (ej: d = 6)
 
 printf("%.6lf", value);
+
+
+//Vaciar el buffer y permitir digitar valores [ fflush(stdin); ]
+//quitar notación científica con cout.precision(cantidad de decimales) e imprimir con cout<<fixed<<"";
